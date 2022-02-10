@@ -254,12 +254,11 @@ section h3 {
 	font-size: 1.5rem;
 }
 
-.icon-links a,
-a:visited,
-a:hover,
-a:active {
+.icon-links a {
 	color: #ffffff;
 	text-decoration: none;
+	width: 1rem;
+	padding-right: 0.875em;
 }
 
 @media (max-width: 1250px) {
